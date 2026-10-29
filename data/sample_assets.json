@@ -1,0 +1,333 @@
+[
+  {
+    "asset_id": "DV-0001",
+    "domain": "quantumpay.com",
+    "tld": "com",
+    "search_volume": 142000,
+    "cpc_usd": 48.50,
+    "age_years": 19.5,
+    "keyword_count": 2,
+    "sector": "Institutional FinTech",
+    "historical_sales": [
+      {"year": 2016, "price_usd": 38000.0, "venue": "Sedo"},
+      {"year": 2021, "price_usd": 92500.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0002",
+    "domain": "cortex.ai",
+    "tld": "ai",
+    "search_volume": 215000,
+    "cpc_usd": 39.20,
+    "age_years": 9.0,
+    "keyword_count": 1,
+    "sector": "Foundation AI Models",
+    "historical_sales": [
+      {"year": 2020, "price_usd": 45000.0, "venue": "NameBio"},
+      {"year": 2023, "price_usd": 135000.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0003",
+    "domain": "zerotrust.security",
+    "tld": "security",
+    "search_volume": 98500,
+    "cpc_usd": 64.80,
+    "age_years": 7.5,
+    "keyword_count": 2,
+    "sector": "Enterprise Cybersecurity",
+    "historical_sales": [
+      {"year": 2022, "price_usd": 29000.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0004",
+    "domain": "tensor.io",
+    "tld": "io",
+    "search_volume": 168000,
+    "cpc_usd": 27.40,
+    "age_years": 12.0,
+    "keyword_count": 1,
+    "sector": "MLOps & GPU Cloud",
+    "historical_sales": [
+      {"year": 2018, "price_usd": 19500.0, "venue": "Park.io"},
+      {"year": 2022, "price_usd": 54000.0, "venue": "Sedo"}
+    ]
+  },
+  {
+    "asset_id": "DV-0005",
+    "domain": "cloudledger.com",
+    "tld": "com",
+    "search_volume": 64000,
+    "cpc_usd": 52.10,
+    "age_years": 16.0,
+    "keyword_count": 2,
+    "sector": "B2B ERP & Accounting",
+    "historical_sales": [
+      {"year": 2019, "price_usd": 31000.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0006",
+    "domain": "synapse.cloud",
+    "tld": "cloud",
+    "search_volume": 88000,
+    "cpc_usd": 31.75,
+    "age_years": 8.2,
+    "keyword_count": 1,
+    "sector": "Data Lakehouse",
+    "historical_sales": [
+      {"year": 2021, "price_usd": 18200.0, "venue": "Sedo"}
+    ]
+  },
+  {
+    "asset_id": "DV-0007",
+    "domain": "vortexa.com",
+    "tld": "com",
+    "search_volume": 49500,
+    "cpc_usd": 24.60,
+    "age_years": 14.5,
+    "keyword_count": 1,
+    "sector": "Predictive Supply Chain",
+    "historical_sales": [
+      {"year": 2017, "price_usd": 22000.0, "venue": "Private Escrow"},
+      {"year": 2022, "price_usd": 48500.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0008",
+    "domain": "datamesh.dev",
+    "tld": "dev",
+    "search_volume": 73000,
+    "cpc_usd": 22.90,
+    "age_years": 5.8,
+    "keyword_count": 2,
+    "sector": "Developer Infrastructure",
+    "historical_sales": [
+      {"year": 2023, "price_usd": 12400.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0009",
+    "domain": "aegis.ai",
+    "tld": "ai",
+    "search_volume": 134000,
+    "cpc_usd": 44.15,
+    "age_years": 8.5,
+    "keyword_count": 1,
+    "sector": "Autonomous Defense AI",
+    "historical_sales": [
+      {"year": 2021, "price_usd": 39000.0, "venue": "Sedo"},
+      {"year": 2024, "price_usd": 88000.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0010",
+    "domain": "treasuryflow.finance",
+    "tld": "finance",
+    "search_volume": 38500,
+    "cpc_usd": 58.90,
+    "age_years": 6.0,
+    "keyword_count": 2,
+    "sector": "Corporate Treasury SaaS",
+    "historical_sales": [
+      {"year": 2022, "price_usd": 16800.0, "venue": "Dan.com"}
+    ]
+  },
+  {
+    "asset_id": "DV-0011",
+    "domain": "hyperion.com",
+    "tld": "com",
+    "search_volume": 240000,
+    "cpc_usd": 36.80,
+    "age_years": 25.0,
+    "keyword_count": 1,
+    "sector": "Enterprise Cloud & BI",
+    "historical_sales": [
+      {"year": 2014, "price_usd": 110000.0, "venue": "Private Escrow"},
+      {"year": 2020, "price_usd": 215000.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0012",
+    "domain": "kubeops.io",
+    "tld": "io",
+    "search_volume": 41200,
+    "cpc_usd": 29.30,
+    "age_years": 7.0,
+    "keyword_count": 2,
+    "sector": "Kubernetes Orchestration",
+    "historical_sales": [
+      {"year": 2021, "price_usd": 11500.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0013",
+    "domain": "veritas.co",
+    "tld": "co",
+    "search_volume": 112000,
+    "cpc_usd": 26.40,
+    "age_years": 13.0,
+    "keyword_count": 1,
+    "sector": "Compliance & RegTech",
+    "historical_sales": [
+      {"year": 2019, "price_usd": 24000.0, "venue": "Sedo"}
+    ]
+  },
+  {
+    "asset_id": "DV-0014",
+    "domain": "chronos.tech",
+    "tld": "tech",
+    "search_volume": 54000,
+    "cpc_usd": 18.50,
+    "age_years": 9.5,
+    "keyword_count": 1,
+    "sector": "Time-Series Databases",
+    "historical_sales": [
+      {"year": 2020, "price_usd": 9800.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0015",
+    "domain": "omnigraph.ai",
+    "tld": "ai",
+    "search_volume": 67000,
+    "cpc_usd": 33.90,
+    "age_years": 5.2,
+    "keyword_count": 2,
+    "sector": "Knowledge Graph RAG",
+    "historical_sales": [
+      {"year": 2023, "price_usd": 27500.0, "venue": "Dan.com"}
+    ]
+  },
+  {
+    "asset_id": "DV-0016",
+    "domain": "ciphergate.com",
+    "tld": "com",
+    "search_volume": 52000,
+    "cpc_usd": 46.20,
+    "age_years": 17.8,
+    "keyword_count": 2,
+    "sector": "Post-Quantum Cryptography",
+    "historical_sales": [
+      {"year": 2018, "price_usd": 26500.0, "venue": "Sedo"},
+      {"year": 2023, "price_usd": 49000.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0017",
+    "domain": "paystream.app",
+    "tld": "app",
+    "search_volume": 44800,
+    "cpc_usd": 31.10,
+    "age_years": 6.4,
+    "keyword_count": 2,
+    "sector": "B2B Payroll Automation",
+    "historical_sales": [
+      {"year": 2022, "price_usd": 13200.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0018",
+    "domain": "stratos.net",
+    "tld": "net",
+    "search_volume": 61000,
+    "cpc_usd": 19.80,
+    "age_years": 21.0,
+    "keyword_count": 1,
+    "sector": "Edge CDN Telemetry",
+    "historical_sales": [
+      {"year": 2017, "price_usd": 14800.0, "venue": "NameJet"}
+    ]
+  },
+  {
+    "asset_id": "DV-0019",
+    "domain": "biocore.org",
+    "tld": "org",
+    "search_volume": 39000,
+    "cpc_usd": 16.75,
+    "age_years": 18.5,
+    "keyword_count": 2,
+    "sector": "Computational Genomics",
+    "historical_sales": [
+      {"year": 2020, "price_usd": 11200.0, "venue": "Sedo"}
+    ]
+  },
+  {
+    "asset_id": "DV-0020",
+    "domain": "nexusrisk.com",
+    "tld": "com",
+    "search_volume": 33400,
+    "cpc_usd": 238.50,
+    "age_years": 15.2,
+    "keyword_count": 2,
+    "sector": "Actuarial Cyber Underwriting",
+    "historical_sales": [
+      {"year": 2021, "price_usd": 64000.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0021",
+    "domain": "helios.io",
+    "tld": "io",
+    "search_volume": 128000,
+    "cpc_usd": 28.90,
+    "age_years": 11.4,
+    "keyword_count": 1,
+    "sector": "Distributed RPC Nodes",
+    "historical_sales": [
+      {"year": 2019, "price_usd": 21000.0, "venue": "Park.io"},
+      {"year": 2023, "price_usd": 42000.0, "venue": "Private Escrow"}
+    ]
+  },
+  {
+    "asset_id": "DV-0022",
+    "domain": "valkyrie.ai",
+    "tld": "ai",
+    "search_volume": 94000,
+    "cpc_usd": 35.40,
+    "age_years": 6.8,
+    "keyword_count": 1,
+    "sector": "Algorithmic Threat Hunting",
+    "historical_sales": [
+      {"year": 2022, "price_usd": 33500.0, "venue": "Afternic"}
+    ]
+  },
+  {
+    "asset_id": "DV-0023",
+    "domain": "auto-b2b-sync24.xyz",
+    "tld": "xyz",
+    "search_volume": 1800,
+    "cpc_usd": 3.40,
+    "age_years": 1.5,
+    "keyword_count": 4,
+    "sector": "Legacy CRM Connectors",
+    "historical_sales": []
+  },
+  {
+    "asset_id": "DV-0024",
+    "domain": "cheap-erp-portal.biz",
+    "tld": "biz",
+    "search_volume": 650,
+    "cpc_usd": 1.85,
+    "age_years": 1.0,
+    "keyword_count": 3,
+    "sector": "SMB Backoffice",
+    "historical_sales": []
+  },
+  {
+    "asset_id": "DV-0025",
+    "domain": "polaris.com",
+    "tld": "com",
+    "search_volume": 248000,
+    "cpc_usd": 41.20,
+    "age_years": 25.0,
+    "keyword_count": 1,
+    "sector": "Global Enterprise Security",
+    "historical_sales": [
+      {"year": 2015, "price_usd": 125000.0, "venue": "Private Escrow"},
+      {"year": 2022, "price_usd": 260000.0, "venue": "Private Escrow"}
+    ]
+  }
+]
+

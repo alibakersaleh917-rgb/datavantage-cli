@@ -1,0 +1,5 @@
+pytest>=7.4.0
+pydantic>=2.5.0
+rich>=13.7.0
+aiohttp>=3.9.0
+
